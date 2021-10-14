@@ -1,0 +1,28 @@
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card{
+    position: static;
+    display: inline-block;
+    text-align: left;
+}
+
+.text{
+    text-align: center;
+}
+.nav-item{
+    text-align: right;
+    color: green;
+    display: grid;
+}
+
+.carousel-texto {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
