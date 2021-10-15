@@ -21,8 +21,26 @@
     display: grid;
 }
 
-.carousel-texto {
-    height: 100%;
-    width: 100%;
-    position: relative;
+
+#boton-card{
+    padding-top: 0px; 
+    padding-bottom: 0px; 
+    padding-left: 3px; 
+    padding-right: 3px;
 }
+
+#texto-carrusel {
+  top: 35%;
+  right: 5%;
+  bottom: 0;
+  left: 60%;
+  color: #fff;
+  height: 70%;
+  text-align: end
+}
+
+#cac{
+    font-size: 11;
+}
+
+
